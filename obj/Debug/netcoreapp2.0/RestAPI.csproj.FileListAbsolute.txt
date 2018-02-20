@@ -1,0 +1,10 @@
+E:\TRABAJO\Git\RestAPI\bin\Debug\netcoreapp2.0\RestAPI.deps.json
+E:\TRABAJO\Git\RestAPI\bin\Debug\netcoreapp2.0\RestAPI.runtimeconfig.json
+E:\TRABAJO\Git\RestAPI\bin\Debug\netcoreapp2.0\RestAPI.runtimeconfig.dev.json
+E:\TRABAJO\Git\RestAPI\bin\Debug\netcoreapp2.0\RestAPI.dll
+E:\TRABAJO\Git\RestAPI\bin\Debug\netcoreapp2.0\RestAPI.pdb
+E:\TRABAJO\Git\RestAPI\obj\Debug\netcoreapp2.0\RestAPI.csproj.CoreCompileInputs.cache
+E:\TRABAJO\Git\RestAPI\obj\Debug\netcoreapp2.0\RestAPI.AssemblyInfoInputs.cache
+E:\TRABAJO\Git\RestAPI\obj\Debug\netcoreapp2.0\RestAPI.AssemblyInfo.cs
+E:\TRABAJO\Git\RestAPI\obj\Debug\netcoreapp2.0\RestAPI.dll
+E:\TRABAJO\Git\RestAPI\obj\Debug\netcoreapp2.0\RestAPI.pdb
