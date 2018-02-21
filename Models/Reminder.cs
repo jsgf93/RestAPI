@@ -9,11 +9,13 @@ namespace RestAPI.Models
         //Constructors
         public Reminder()
         {
+            this.Name = "Default Reminder";
+            this.IsDone = true;
         }
-        public Reminder(string NewName ="Default Name", bool NewIsDone = false)
+        public Reminder(string Name ="Default Name", bool IsDone = false)
         {
-            this.Name = NewName;
-            this.IsDone = NewIsDone;
+            this.Name = Name;
+            this.IsDone = IsDone;
         }
 
 
